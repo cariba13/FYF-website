@@ -7,3 +7,9 @@ Gruppenregeln:
 
 :-) -Carina
 
+Aufgabenverteilung:
+
+Kontakt/Impressum - Carina
+Über Uns - Lara
+Angebot - Elena
+Startseite - Harun
