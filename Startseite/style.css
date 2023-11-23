@@ -1,8 +1,25 @@
 .grosse_box{
-    font-family:link rel="preconnect" href="https://fonts.googleapis.com"
+    font-family:link rel="preconnect" href="https://fonts.googleapis.com";
 }
 .titel{
     font-family: link rel="preconnect" href="https://fonts.googleapis.com" ;
     box-sizing: border-box;
     border-color: darkblue;
+}
+
+.navigation_header{
+    display: grid;
+ 
+    grid-template-columns: repeat(4, auto);
+    gap: 50px; 
+    justify-content: flex-end;
+    margin-right: 70px;
+    box-sizing: border-box;
+}
+img{
+width: 236px;
+height: 164px;
+box-sizing: border-box;
+border-width: 20px;
+border: top left radius 500px;
 }
