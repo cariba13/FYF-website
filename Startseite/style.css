@@ -1,24 +1,37 @@
-.grosse_box{
-    font-family:link rel="preconnect" href="https://fonts.googleapis.com";
-}
-.titel{
-    font-family: link rel="preconnect" href="https://fonts.googleapis.com" ;
-    box-sizing: border-box;
-    border-color: darkblue;
+@font-face {
+    font-family:quicksand;
+    src: url(/fonts/Quicksand-VariableFont_wght.ttf);
 }
 
-.navigation_header{
-    display: grid;
- 
-    grid-template-columns: repeat(4, auto);
-    gap: 50px; 
-    justify-content: flex-end;
-    margin-right: 70px;
+
+body {
+   font-family:quicksand;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
-img{
-width: 236px;
-height: 164px;
-box-sizing: border-box;
-border-width: 20px;
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+
+        background: linear-gradient(to right, #503887, #d4367d);
+        color: #fff;
+        padding: 1em 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+footer {
+    background: linear-gradient(to right, #503887, #d4367d);
+    color: #fff;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
