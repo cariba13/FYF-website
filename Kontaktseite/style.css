@@ -51,6 +51,87 @@ margin-left: 30px;
 .menüleiste a:hover {
     transform: translateY(-5px)
 }
+
+main {
+    display: flex;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+
+
+
+
+#contact-container {
+    display: flex; 
+    background-color: #dedddd; /* Hellgraue Hintergrundfarbe */
+    border-radius: 8px; /* Abgerundete Kanten */
+    padding: 5px;
+}
+
+#contact-form-container,
+#contact-image-container {
+    flex: 1;
+}
+
+
+#contact-form-container {
+    flex: 2; /* Zwei Drittel der Seite */;
+    padding: 20px;
+    padding: 20px;
+   
+}
+
+#contact-form {
+    max-width: 100%; /* Beispiel für die Begrenzung der Formularbreite */
+    margin: 0 auto;
+}
+
+
+#contact-image-container {
+    flex: 1; /* Ein Drittel der Seite */
+    padding: 20px;
+    /* Stilisieren Sie Ihren Bildcontainer nach Bedarf */
+}
+
+#contact-image-container img {
+    max-width: 100%; /* Das Bild wird nicht breiter als sein Container */
+    height: auto; /* Das Seitenverhältnis des Bildes bleibt erhalten */
+    display: block; /* Entfernt mögliche zusätzliche Leerzeichen unter dem Bild */
+    margin: 0 auto 0 auto; 
+    border-radius: 8px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1.5px solid #503887;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
     
 footer {
     background: linear-gradient(to right, #503887, #d4367d);
