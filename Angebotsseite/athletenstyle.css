@@ -107,8 +107,8 @@ h5{
 
 .bottom-text-eins {
     margin: 20px;
-    padding: 20px; /
-    text-align: cener; /* Text zentrieren */
+    padding: 20px; 
+    text-align: center; /* Text zentrieren */
     padding-right: 100px; /* Abstand zum rechten Rand */
 }
 
@@ -126,7 +126,7 @@ h5{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom right, transparent 49.5%, #000 50%); /* Schräger Hintergrund von links oben nach rechts unten */
+    background-color: #545251;
 }
 
 
@@ -147,7 +147,7 @@ h5{
 
 .bottom-text-zwei li {
     margin-bottom: 10px; /* Abstand zwischen den Aufzählungspunkten */
-    auto; /* Zentriert den Text horizontal */
+    display: auto; /* Zentriert den Text horizontal */
 }
 
 footer {
