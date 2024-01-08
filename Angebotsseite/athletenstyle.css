@@ -103,11 +103,12 @@ h5{
     color: white; /* Weißer Text in den Boxen */
     padding: 20px; /* Abstand zum Rand */
     margin: 10px;   /* Abstand zwischen den Boxen */
+    border-radius: 9px;
 }
 
 .bottom-text-eins {
     margin: 20px;
-    padding: 20px; /
+    padding: 20px; /* Abstand zum Rand */
     text-align: cener; /* Text zentrieren */
     padding-right: 100px; /* Abstand zum rechten Rand */
 }
