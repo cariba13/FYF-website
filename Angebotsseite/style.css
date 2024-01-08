@@ -42,9 +42,9 @@ a:hover {
     padding: 10px 10px;
     margin: auto;
     text-align: right;
-    list-style: none;
-    
+    list-style: none; 
 }
+
 .menüleiste li{
 margin-left: 30px;
 }
