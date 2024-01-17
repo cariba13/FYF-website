@@ -38,11 +38,6 @@ Chatgpt wurde als einziges hilfsmittel benutzt
 Bei Sackgassen wurden Chatgpt und div Folien von "Interaktive Medien" benutzt
 
 
-NOTE:
-Wäre es vielleicht besser den Link zum Impressum in den Footer zu setzen? 
-Brauchen wir vielleicht eine 404-not found Seite für nicht vorhandene Links?
-Wer baut die Profil/Anmeldeseite? harun
-
 
 Quellen bilder
 Larissa Mustermensch (Naomi Osaka) startseite: https://www.kismasport.com/tennis/news/tennis-news-canada-masters-bianca-andreescu-beats-daria-kasatkina-and-naomi-osakas-tearful-exit
