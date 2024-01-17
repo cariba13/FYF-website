@@ -15,10 +15,21 @@ Angebot - Elena
 Startseite - Harun
 
 
-
+18.12.2023 Erstellung der ANgebotsseite Athelten (Grundkonzept)
 21.12.2023 Header und footer erstellt mit menüleiste. Über uns fertig codiert und gestaltet
+25.12.2023 Startseite erstellt und gestaltet
 26.12.2023 Auf allen Seiten den Input "footer position = fixed" entfernt, da der footer erst am Ende der Seite zu sehen sein soll und ansonsten Content verdeckt.
-27.12.2023 Impressum erstellt
+26.12.2023 Startseite fertige gemacht. 
+26.12.2023 Konzept Kontaktseite und Impressum
+27.12.2023 Impressum erstellt, Feinschliff Angebotsseite Athleten
+28.10.2023 über uns seite erstellt header angepasst
+30.12.2023 Kontaktsetie und Impressum überarbeitet
+31.12.2023 Kontaktseite und Impressum fertig erstellt
+1.01.2024 Login seite erstellt
+4.01.2024 Design überarbeitet Angebotsseite Athleten
+14.01.2024 Codes Angebotsseite Unternehmen angepasst
+15.01.2024 alle codes finalisiert
+
 
 Methodik/ Hilfmittel
 Chatgpt wurde bei der erstellung von dem header und footer benutzt
