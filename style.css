@@ -171,7 +171,7 @@ footer {
     display: grid;
     height: 100%;
     place-items: center;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .vision-container {
