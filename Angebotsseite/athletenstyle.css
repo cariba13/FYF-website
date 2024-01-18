@@ -136,17 +136,17 @@ h5{
 .black-container:before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    top: 0;     /* Positionierung oben */
+    left: 0;    /* Positionierung links */
+    width: 50%;     /* Breite des schrägen Containers */
+    height: 100%;   /* Höhe des schrägen Containers */
     background-color: #545251;
 }
 
 
 .bottom-text-zwei {
-    color: #fff;
-    margin: 0 auto; /* Zentriert den Text horizontal */
+    color: white;
+    margin: 0 auto;
     text-align: left; /* Links ausrichten */
     max-width: 600px; /* Maximalbreite des Textes */
     padding: 20px;
