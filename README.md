@@ -15,7 +15,6 @@ Angebot - Elena
 Startseite - Harun
 
 
-
 21.12.2023 Header und footer erstellt mit menüleiste. Über uns fertig codiert und gestaltet
 26.12.2023 Auf allen Seiten den Input "footer position = fixed" entfernt, da der footer erst am Ende der Seite zu sehen sein soll und ansonsten Content verdeckt.
 27.12.2023 Impressum erstellt
