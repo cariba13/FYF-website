@@ -97,9 +97,10 @@ footer {
 }
 
 .text-section {
+    position: relative;
+    margin: 40px 0px 40px 0px;
     text-align: center;
     background: linear-gradient(to right, #503887, #d4367d);
-    margin: 40px 300px 0px 300px;
     font-weight: bolder;
     font-size: xx-large;
     padding: 20px;
