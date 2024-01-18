@@ -171,7 +171,8 @@ button:hover {
 .map-container {
     flex: 1;
     flex-wrap: wrap;
-    height: 100%;
+    width: 600px;
+    height: 450px;
     padding: 5px;
     margin: 10px;
     border-radius: 8px;
@@ -180,8 +181,8 @@ button:hover {
 
 #map {
     border-radius: 8px;
-    max-width: 600px;
-    max-height: 450px;
+    width: 600px;
+    height: 450px;
  
 }
 
