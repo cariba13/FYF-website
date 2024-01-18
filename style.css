@@ -76,6 +76,12 @@ footer {
     width: 100%;
 }
 
+.impressum-link {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
 .video-container {
     position: relative;
     overflow: hidden;
@@ -91,9 +97,10 @@ footer {
 }
 
 .text-section {
+    position: relative;
+    margin: 40px 0px 40px 0px;
     text-align: center;
     background: linear-gradient(to right, #503887, #d4367d);
-    margin: 40px 300px 0px 300px;
     font-weight: bolder;
     font-size: xx-large;
     padding: 20px;
@@ -171,7 +178,7 @@ footer {
     display: grid;
     height: 100%;
     place-items: center;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .vision-container {

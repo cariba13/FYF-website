@@ -108,3 +108,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.impressum-link {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 16px;
+}
